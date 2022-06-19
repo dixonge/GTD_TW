@@ -1,0 +1,7 @@
+PageControlButtons: $:/core/ui/Buttons/save-wiki $:/core/ui/Buttons/new-tiddler $:/plugins/tiddlywiki/markdown/new-markdown-button $:/core/ui/Buttons/import $:/core/ui/Buttons/control-panel $:/core/ui/Buttons/refresh $:/plugins/kookma/utility/ui/Buttons/ViewFields $:/plugins/kookma/commander/buttons/pagecontrol  $:/core/ui/Buttons/advanced-search
+
+SideBarSegments/tabs: $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More $:/core/ui/SideBar/Open $:/plugins/kookma/favorites/sidebar-tab $:/plugins/kookma/trashbin/sidebar-tab $:/core/ui/SideBarSegments/search
+
+ViewToolbarButtons: $:/core/ui/Buttons/edit $:/core/ui/Buttons/more-tiddler-actions $:/plugins/kookma/trashbin/ui/toolbar-button $:/plugins/kookma/favorites/ui/buttons/add-remove
+
+CSS: .krystal-header .tc-sidebar-search, .tc-site-title:before { display: none; }
